@@ -1,0 +1,6 @@
+{
+  "name": "ESIN Organization",
+  "description": "A dedicated grassroots NGO ecosystem focused on uplifting Afghan women and girls through education continuity, digital literacy, vocational enterprise, and safe community sanctuary.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
